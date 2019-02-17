@@ -24,12 +24,12 @@ is uor imagination.
 
 
 
-![padawan](/assets/img/padawan.png)
-# My Padawan links
+![Padawans](/assets/img/padawan.png)
+# My Padawans links
 --------------------------------------------------------------------------------
 
 #### Tasks: 
 
-*   This is an unordered list following a header.
+*   [FancyCalc invite link for Padawans](https://github.com/StwUser/FancyCalc/invitations)  
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.   
