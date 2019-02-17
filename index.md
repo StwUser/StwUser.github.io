@@ -1,4 +1,4 @@
-![chameleon](/assets/img/cham.png)                                               # **About me**                        
+![chameleon](/assets/img/cham.png)                                               #About me                        
 ---------------------------------------------------------------------------------
 I had graduated "Private Institute of Management and Entrepreneurship"
 and got my first higher education in sphere of management. I became a manager.
