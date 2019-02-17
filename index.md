@@ -13,12 +13,16 @@ Programming and design methods of information systems.
 By the way I thing IT it's a sphere where
 people don't have bounds, they might do anything anywhere every time. Our limit 
 is uor imagination. 
+
+
  
 ![code](/assets/img/code.png) 
 # My Codewars profile
 --------------------------------------------------------------------------------
 
 [Link to codewars](https://www.codewars.com/users/StwUser/completed)
+
+
 
 ![padawan](/assets/img/padawan.png)
 # My Padawan links
