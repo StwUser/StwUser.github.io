@@ -14,9 +14,10 @@ By the way I thing IT it's a sphere where
 people don't have bounds, they might do anything anywhere every time. Our limit 
 is uor imagination. 
  
+![code](/assets/img/code.png) 
 # My Codewars profile
-![code](/assets/img/code.png)
 --------------------------------------------------------------------------------
+
 [Link to codewars](https://www.codewars.com/users/StwUser/completed)
 
     
