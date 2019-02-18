@@ -33,3 +33,5 @@ is uor imagination.
 *   [FancyCalc invite link for Padawans](https://github.com/StwUser/FancyCalc/invitations)  
 *   [PadawansTask1 invite link for Padawans](https://github.com/StwUser/PadawansTask1/invitations)
 *   [PadawansTask2 invite link for Padawans](https://github.com/StwUser/PadawansTask2/invitations)   
+*	[PadawansTask3 invite link for Padawans](https://github.com/StwUser/PadawansTask3/invitations)	
+*	[PadawansTask4 invite link for Padawans](https://github.com/StwUser/PadawansTask4/invitations)		
