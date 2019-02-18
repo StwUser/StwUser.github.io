@@ -36,4 +36,11 @@ is uor imagination.
 *	[PadawansTask3 invite link for Padawans](https://github.com/StwUser/PadawansTask3/invitations)	
 *	[PadawansTask4 invite link for Padawans](https://github.com/StwUser/PadawansTask4/invitations)
 *	[PadawansTask5 invite link for Padawans](https://github.com/StwUser/PadawansTask5/invitations)		
-*	[PadawansTask6 invite link for Padawans](https://github.com/StwUser/PadawansTask6/invitations)					
+*	[PadawansTask6 invite link for Padawans](https://github.com/StwUser/PadawansTask6/invitations)		
+
+
+![UnitTests](/assets/img/unit.png)
+# My project with unit tests
+--------------------------------------------------------------------------------		
+
+[Task about triangle with Unit Tests](https://github.com/StwUser/TriangleUnitTestTask)	
