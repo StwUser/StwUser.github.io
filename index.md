@@ -37,6 +37,9 @@ is uor imagination.
 *	[PadawansTask4 invite link for Padawans](https://github.com/StwUser/PadawansTask4/invitations)
 *	[PadawansTask5 invite link for Padawans](https://github.com/StwUser/PadawansTask5/invitations)		
 *	[PadawansTask6 invite link for Padawans](https://github.com/StwUser/PadawansTask6/invitations)		
+*	[PadawansTask7 invite link for Padawans](https://github.com/StwUser/PadawansTask7/invitations)   
+*	[PadawansTask8 invite link for Padawans](https://github.com/StwUser/PadawansTask8/invitations)    
+*	[PadawansTask9 invite link for Padawans](https://github.com/StwUser/PadawansTask9/invitations)
 
 
 ![UnitTests](/assets/img/unit.png)
