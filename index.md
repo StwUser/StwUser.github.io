@@ -47,7 +47,8 @@ is uor imagination.
 
 
 
-*	[ The first 20 numbers in the sequence. invite link for Padawans](https://github.com/StwUser/TheFirst20namesInTheSequence/invitations)
+*	[ The first 20 numbers in the sequence invite link for Padawans](https://github.com/StwUser/TheFirst20namesInTheSequence/invitations)
+
 
 ![UnitTests](/assets/img/unit.png)
 # My project with unit tests
