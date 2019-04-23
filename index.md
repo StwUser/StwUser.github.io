@@ -57,7 +57,7 @@ is uor imagination.
 [Task about triangle with Unit Tests](https://github.com/StwUser/TriangleUnitTestTask)	
 
 
-![wpf](/assets/img/rest.jpg)
+![](/assets/img/rest.jpg)
 # С# WPF Client-Server App.
 --------------------------------------------------------------------------------		
 [Demo video](https://yadi.sk/i/ZBRC8WCTL01e0Q)
