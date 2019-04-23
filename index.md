@@ -25,30 +25,29 @@ is uor imagination.
 
 
 ![Padawans](/assets/img/padawan.png)
-# My Padawans links
+# My Tasks links
 --------------------------------------------------------------------------------
 
 #### Tasks: 
 
-*   [FancyCalc invite link for Padawans](https://github.com/StwUser/FancyCalc/invitations)  
-*   [PadawansTask1 invite link for Padawans](https://github.com/StwUser/PadawansTask1/invitations)
-*   [PadawansTask2 invite link for Padawans](https://github.com/StwUser/PadawansTask2/invitations)   
-*	[PadawansTask3 invite link for Padawans](https://github.com/StwUser/PadawansTask3/invitations)	
-*	[PadawansTask4 invite link for Padawans](https://github.com/StwUser/PadawansTask4/invitations)
-*	[PadawansTask5 invite link for Padawans](https://github.com/StwUser/PadawansTask5/invitations)		
-*	[PadawansTask6 invite link for Padawans](https://github.com/StwUser/PadawansTask6/invitations)		
-*	[PadawansTask7 invite link for Padawans](https://github.com/StwUser/PadawansTask7/invitations)   
-*	[PadawansTask8 invite link for Padawans](https://github.com/StwUser/PadawansTask8/invitations)    
-*	[PadawansTask9 invite link for Padawans](https://github.com/StwUser/PadawansTask9/invitations)  
-*	[PadawansTask10 invite link for Padawans](https://github.com/StwUser/PadawansTask10/invitations) 
-*	[PadawansTask11 invite link for Padawans](https://github.com/StwUser/PadawansTask11/invitations)   
-*	[PadawansTask12 invite link for Padawans](https://github.com/StwUser/PadawansTask12/invitations)
-*	[PadawansTask13 invite link for Padawans](https://github.com/StwUser/PadawansTask13/invitations)
-*	[PadawansTask15 invite link for Padawans](https://github.com/StwUser/PadawansTask15/invitations)	
+*   [Task1](https://github.com/StwUser/Task1)
+*   [Task2](https://github.com/StwUser/Task2)   
+*	[Task3](https://github.com/StwUser/Task3)	
+*	[Task4](https://github.com/StwUser/Task4)
+*	[Task5](https://github.com/StwUser/Task5)		
+*	[Task6](https://github.com/StwUser/Task6)		
+*	[Task7](https://github.com/StwUser/Task7)   
+*	[Task8](https://github.com/StwUser/Task8)    
+*	[Task9](https://github.com/StwUser/Task9)  
+*	[Task10](https://github.com/StwUser/Task10) 
+*	[Task11](https://github.com/StwUser/Task11)   
+*	[Task12](https://github.com/StwUser/Task12)
+*	[Task13](https://github.com/StwUser/Task13)
+*	[Task15](https://github.com/StwUser/Task15)	
 
 
 
-*	[ The first 20 numbers in the sequence invite link for Padawans](https://github.com/StwUser/TheFirst20namesInTheSequence/invitations)
+*	[ The first 20 numbers in the sequence](https://github.com/StwUser/TheFirst20namesInTheSequence)
 
 
 ![UnitTests](/assets/img/unit.png)
