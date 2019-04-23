@@ -55,3 +55,11 @@ is uor imagination.
 --------------------------------------------------------------------------------		
 
 [Task about triangle with Unit Tests](https://github.com/StwUser/TriangleUnitTestTask)	
+
+
+![wpf](/assets/img/rest.jpg)
+![wpf](/assets/img/Demo.jpg) 
+# С# WPF Client-Server App.
+--------------------------------------------------------------------------------		
+
+[Task about triangle with Unit Tests](https://github.com/StwUser/C-WpfRestCilent-Server)	
