@@ -58,7 +58,7 @@ is uor imagination.
 
 
 ![wpf](/assets/img/rest.jpg)
-![wpf](/assets/img/Demo.jpg) 
+![wpf](/assets/img/Demo.mp4) 
 # С# WPF Client-Server App.
 --------------------------------------------------------------------------------		
 
