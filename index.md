@@ -58,8 +58,7 @@ is uor imagination.
 
 
 ![wpf](/assets/img/rest.jpg)
-![wpf](/assets/img/Demo.mp4) 
 # С# WPF Client-Server App.
 --------------------------------------------------------------------------------		
-
-[Task about triangle with Unit Tests](https://github.com/StwUser/C-WpfRestCilent-Server)	
+[Demo video](https://yadi.sk/i/ZBRC8WCTL01e0Q)
+[C#, WPF Client-Server App with REST](https://github.com/StwUser/C-WpfRestCilent-Server)	
