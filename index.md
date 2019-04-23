@@ -60,5 +60,5 @@ is uor imagination.
 ![wpf](/assets/img/rest.jpg)
 # С# WPF Client-Server App.
 --------------------------------------------------------------------------------		
-* [Demo video](https://yadi.sk/i/ZBRC8WCTL01e0Q)
-* [C#, WPF Client-Server App with REST](https://github.com/StwUser/C-WpfRestCilent-Server)	
+*	[DemoVideo](https://yadi.sk/i/ZBRC8WCTL01e0Q)
+*	[C#, WPF Client-Server App with REST](https://github.com/StwUser/C-WpfRestCilent-Server)	
