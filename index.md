@@ -58,13 +58,13 @@ is uor imagination.
 
 
 ![wpf](/assets/img/rest.jpg)
-# С# WPF Client-Server App.
+# WPF Client-Server App.
 --------------------------------------------------------------------------------		
 *	[DemoVideo](https://yadi.sk/i/ZBRC8WCTL01e0Q)
 *	[C#, WPF Client-Server App with REST](https://github.com/StwUser/C-WpfRestCilent-Server)	
 
 ![ADO.Net](/assets/img/fe.jpg)
-# С# WPF Program for searc oncoming apartments
+# WPF Program for searc oncoming apartments
 --------------------------------------------------------------------------------	
 *	[How to use](http://flatexchangerhelp.somee.com/)
 *	[C#, WPF program with ADO.Net](https://github.com/StwUser/FlatExchanger)	
