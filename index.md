@@ -64,7 +64,7 @@ is uor imagination.
 *	[C#, WPF Client-Server App with REST](https://github.com/StwUser/C-WpfRestCilent-Server)	
 
 ![ADO.Net](/assets/img/flatex.jpg)
-# C# WPF Program for searc oncoming apartments
+# C# WPF Program for search oncoming apartments
 --------------------------------------------------------------------------------	
 *	[How to use](http://flatexchangerhelp.somee.com/)
 *	[C#, WPF program with ADO.Net](https://github.com/StwUser/FlatExchanger)	
