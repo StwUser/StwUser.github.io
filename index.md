@@ -62,8 +62,7 @@ is uor imagination.
 --------------------------------------------------------------------------------		
 *	[DemoVideo](https://yadi.sk/i/ZBRC8WCTL01e0Q)
 *	[C#, WPF Client-Server App with REST](https://github.com/StwUser/C-WpfRestCilent-Server)	
-![wpf](/assets/img/rest.jpg)
-![wpf](/assets/img/flatex.jpg)
+
 ![ADO.Net](/assets/img/flatex.jpg)
 # C# WPF Program for searc oncoming apartments
 --------------------------------------------------------------------------------	
