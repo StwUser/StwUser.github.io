@@ -68,3 +68,8 @@ is uor imagination.
 --------------------------------------------------------------------------------	
 *	[How to use](http://flatexchangerhelp.somee.com/)
 *	[C#, WPF program with ADO.Net](https://github.com/StwUser/FlatExchanger)	
+
+![.Net](/assets/img/cons.jpg)
+# C# console application for storing collection of books
+--------------------------------------------------------------------------------	
+*	[C#, source code](https://github.com/StwUser/ConsoleTestTaskInnowiseGroup)	
