@@ -10,12 +10,11 @@ University  by profession engineer-programmer. When I have been studying I becam
 familiar with: c, c++, c#, Java, SQL languages. Knew more about Object Oriented 
 Programming and design methods of information systems. 
 
-By the way I thing IT it's a sphere where
-people don't have bounds, they might do anything anywhere every time. Our limit 
-is uor imagination. 
+![ADO.Net](/assets/img/world.png)
+# Pluralsight ASP.NET Core video course from Shawn Wildermuth.
+--------------------------------------------------------------------------------	
+*	[ref](https://github.com/StwUser/TheWorld)
 
-
- 
 ![code](/assets/img/code.png) 
 # My Codewars profile
 --------------------------------------------------------------------------------
@@ -68,8 +67,3 @@ is uor imagination.
 --------------------------------------------------------------------------------	
 *	[How to use](http://flatexchangerhelp.somee.com/)
 *	[C#, WPF program with ADO.Net](https://github.com/StwUser/FlatExchanger)	
-
-![.Net](/assets/img/cons.jpg)
-# C# console application for storing collection of books
---------------------------------------------------------------------------------	
-*	[C#, source code](https://github.com/StwUser/ConsoleTestTaskInnowiseGroup)	
