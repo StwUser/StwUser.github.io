@@ -10,9 +10,6 @@ University  by profession engineer-programmer. When I have been studying I becam
 familiar with: c, c++, c#, Java, SQL languages. Knew more about Object Oriented 
 Programming and design methods of information systems. 
 
-#ASP.NET
----------------------------------------------------------------------------------
-*	[ASP.NET-Development.-Summer-2019/](https://github.com/StwUser/-ASP.NET-Developmet.-Enrollment-Interview.-Khlystun)
 --------------------------------------------------------------------------------
 
 ![ADO.Net](/assets/img/world.png)
