@@ -9,7 +9,6 @@ In this year I going to graduate Institute of Business at the Belarusian State
 University  by profession engineer-programmer. When I have been studying I became
 familiar with: c, c++, c#, Java, SQL languages. Knew more about Object Oriented 
 Programming and design methods of information systems. 
---------------------------------------------------------------------------------
 
 
 ![.Net](/assets/img/fileCabinet.png)
@@ -18,11 +17,16 @@ Programming and design methods of information systems.
 tecnologies: .net, Xml, programming patterns.
 *	[FileCabinet](https://github.com/StwUser/FileCabinet)
 
-![.Net](/assets/img/xamarin.png)
+![Xamarin](/assets/img/xamarin.png)
 # Xamarin projects:
 --------------------------------------------------------------------------------
+
+![Xamarin](/assets/img/xamarinCalc.png)
+# Pluralsight ASP.NET Core video course from Shawn Wildermuth.
+--------------------------------------------------------------------------------	
+tecnologies: Xamarin, .net, Xaml, MVVM pattern.
+*	[XamarinCalculator](https://github.com/StwUser/XamarinCalculator)
 	
-*	[ref](https://github.com/StwUser/TheWorld)
 ![ADO.Net](/assets/img/world.png)
 # Pluralsight ASP.NET Core video course from Shawn Wildermuth.
 --------------------------------------------------------------------------------	
