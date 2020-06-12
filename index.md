@@ -22,7 +22,7 @@ tecnologies: .net, Xml, programming patterns.
 --------------------------------------------------------------------------------
 
 ![Xamarin](/assets/img/xamarinCalc.png)
-# Pluralsight ASP.NET Core video course from Shawn Wildermuth.
+# Calculator application.
 --------------------------------------------------------------------------------	
 tecnologies: Xamarin, .net, Xaml, MVVM pattern.
 *	[XamarinCalculator](https://github.com/StwUser/XamarinCalculator)
