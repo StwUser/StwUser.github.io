@@ -12,7 +12,7 @@ Programming and design methods of information systems.
 
 
 ![.Net](/assets/img/fileCabinet.png)
-# Training task. Console application "FileCabinet". For create, update, delete and store records, with persons cards.
+# .Net training task. Console application "FileCabinet". For create, update, delete and store records, with persons cards.
 --------------------------------------------------------------------------------
 tecnologies: .net, Xml, programming patterns.
 *	[FileCabinet](https://github.com/StwUser/FileCabinet)
@@ -28,10 +28,10 @@ tecnologies: Xamarin, .net, Xaml, MVVM pattern.
 *	[XamarinCalculator](https://github.com/StwUser/XamarinCalculator)
 
 ![Xamarin](/assets/img/xamarinNotes.png)
-# Application "DailyNotes" allows store notes in TODO list on you mobile device.
+# Application "DailySimpleNotes" allows store notes in TODO list on your mobile device.
 --------------------------------------------------------------------------------	
 tecnologies: Xamarin, .net, Xaml, MVVM pattern, SQLite.
-*	[XamarinCalculator](https://github.com/StwUser/XamarinNotes)
+*	[DailySimpleNotes](https://github.com/StwUser/XamarinNotes)
 	
 ![ADO.Net](/assets/img/world.png)
 # Pluralsight ASP.NET Core video course from Shawn Wildermuth.
