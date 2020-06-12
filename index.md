@@ -11,10 +11,10 @@ familiar with: c, c++, c#, Java, SQL languages. Knew more about Object Oriented
 Programming and design methods of information systems. 
 
 
-![.Net](/assets/img/fileCabinet.png)
-# .Net training task. Console application "FileCabinet". For create, update, delete and store records, with persons cards.
+![.NET](/assets/img/fileCabinet.png)
+# .NET training task. Console application "FileCabinet". For create, update, delete and store records, with persons cards.
 --------------------------------------------------------------------------------
-tecnologies: .net, Xml, programming patterns.
+technologies: .NET, Xml, programming patterns.
 *	[FileCabinet](https://github.com/StwUser/FileCabinet)
 
 ![Xamarin](/assets/img/xamarin.png)
@@ -24,27 +24,36 @@ tecnologies: .net, Xml, programming patterns.
 ![Xamarin](/assets/img/xamarinCalc.png)
 # Application calculator.
 --------------------------------------------------------------------------------	
-tecnologies: Xamarin, .net, Xaml, MVVM pattern.
+technologies: Xamarin, .NET, Xaml, MVVM pattern.
 *	[XamarinCalculator](https://github.com/StwUser/XamarinCalculator)
 
 ![Xamarin](/assets/img/xamarinNotes.png)
 # Application "DailySimpleNotes" allows store notes in TODO list on your mobile device.
 --------------------------------------------------------------------------------	
-tecnologies: Xamarin, .net, Xaml, MVVM pattern, SQLite.
+technologies: Xamarin, .NET, Xaml, MVVM pattern, SQLite.
 *	[DailySimpleNotes](https://github.com/StwUser/XamarinNotes)
 
 ![Xamarin](/assets/img/XamarinWeather.png)
 # Application "Xamarin Weather" gets location of your mobile device, then go to openweathermap.org API and gets Weather Forecast in Json format.
 --------------------------------------------------------------------------------	
-tecnologies: Xamarin, .net, Xaml, MVVM pattern, Json, Xamarin.Essentials.
+technologies: Xamarin, .NET, Xaml, MVVM pattern, Json, Xamarin.Essentials.
 *	[XamarinWeather](https://github.com/StwUser/XamarinWeather)
 	
-![ADO.Net](/assets/img/world.png)
+
+![dotnet](/assets/img/dotnetCore.png)
+# .NET Core projects:
+--------------------------------------------------------------------------------
+
+![.NET](/assets/img/webApi.png)
+# Web API.
+--------------------------------------------------------------------------------
+technologies: web API, Rest, .NET core, Entity Framework	
+*	[WebPcApi](https://github.com/StwUser/WebPcApi)
+
+![.NET](/assets/img/world.png)
 # Pluralsight ASP.NET Core video course from Shawn Wildermuth.
 --------------------------------------------------------------------------------	
 *	[ref](https://github.com/StwUser/TheWorld)
-
-
 
 
 
