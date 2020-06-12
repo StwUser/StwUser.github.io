@@ -32,6 +32,12 @@ tecnologies: Xamarin, .net, Xaml, MVVM pattern.
 --------------------------------------------------------------------------------	
 tecnologies: Xamarin, .net, Xaml, MVVM pattern, SQLite.
 *	[DailySimpleNotes](https://github.com/StwUser/XamarinNotes)
+
+![Xamarin](/assets/img/xamarinWeather.png)
+# Application "Xamarin Weather" gets location of your mobile device, then go to openweathermap.org API and gets Weather Forecast in Json format.
+--------------------------------------------------------------------------------	
+tecnologies: Xamarin, .net, Xaml, MVVM pattern, Json, Xamarin.Essentials.
+*	[XamarinWeather](https://github.com/StwUser/XamarinWeather)
 	
 ![ADO.Net](/assets/img/world.png)
 # Pluralsight ASP.NET Core video course from Shawn Wildermuth.
