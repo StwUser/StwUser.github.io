@@ -47,7 +47,7 @@ technologies: Xamarin, .NET, Xaml, MVVM pattern, Json, Xamarin.Essentials.
 ![.NET](/assets/img/webApi.png)
 # Web API.
 --------------------------------------------------------------------------------
-technologies: web API, Rest, .NET core, Entity Framework	
+technologies: web API, Rest, .NET core, Entity Framework, MsSql database.	
 *	[WebPcApi](https://github.com/StwUser/WebPcApi)
 
 ![.NET](/assets/img/world.png)
