@@ -53,7 +53,15 @@ technologies: web API, Rest, .NET core, Entity Framework
 ![.NET](/assets/img/world.png)
 # Pluralsight ASP.NET Core video course from Shawn Wildermuth.
 --------------------------------------------------------------------------------	
-*	[ref](https://github.com/StwUser/TheWorld)
+*	[World](https://github.com/StwUser/TheWorld)
 
+![Web](/assets/img/web.png)
+# Web projects:
+--------------------------------------------------------------------------------
 
+![Web](/assets/img/mocup.png)
+# 2 pages of the site with a gallery and animation.
+--------------------------------------------------------------------------------	
+technologies: Html, Css, Js.
+*	[Site](https://github.com/StwUser/Web)
 
