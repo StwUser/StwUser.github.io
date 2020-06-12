@@ -26,6 +26,12 @@ tecnologies: .net, Xml, programming patterns.
 --------------------------------------------------------------------------------	
 tecnologies: Xamarin, .net, Xaml, MVVM pattern.
 *	[XamarinCalculator](https://github.com/StwUser/XamarinCalculator)
+
+![Xamarin](/assets/img/xamarinNotes.png)
+# Application "DailyNotes" allows store notes in TODO list on you mobile device.
+--------------------------------------------------------------------------------	
+tecnologies: Xamarin, .net, Xaml, MVVM pattern, SQLite.
+*	[XamarinCalculator](https://github.com/StwUser/XamarinNotes)
 	
 ![ADO.Net](/assets/img/world.png)
 # Pluralsight ASP.NET Core video course from Shawn Wildermuth.
