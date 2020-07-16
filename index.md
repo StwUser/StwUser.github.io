@@ -65,3 +65,15 @@ technologies: web API, Rest, .NET core, Entity Framework, MsSql database.
 technologies: Html, Css, Js.
 *	[Site](https://github.com/StwUser/Web)
 
+![Wpf](/assets/img/wpf.png)
+# WPF projects:
+--------------------------------------------------------------------------------
+
+![Wpf](/assets/img/cards.png)
+# Client WPF application.
+--------------------------------------------------------------------------------	
+technologies: MVVM, WPF.
+*	[app](https://github.com/StwUser/WpfCoreCardsGallery/tree/master/WpfCoreCardsGallery)
+
+
+
