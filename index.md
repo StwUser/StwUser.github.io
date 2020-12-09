@@ -9,10 +9,6 @@ In this year I going to graduate Institute of Business at the Belarusian State
 University  by profession engineer-programmer. When I have been studying I became
 familiar with: c, c++, c#, Java, SQL languages. Knew more about Object Oriented 
 Programming and design methods of information systems. 
-
-
-![.NET](/assets/img/fileCabinet.png)
-# .NET training task. Console application "FileCabinet". For create, update, delete and store records, with persons cards.
 --------------------------------------------------------------------------------
 technologies: .NET, Xml, programming patterns.
 *	[FileCabinet](https://github.com/StwUser/FileCabinet)
