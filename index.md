@@ -10,8 +10,6 @@ University  by profession engineer-programmer. When I have been studying I becam
 familiar with: c, c++, c#, Java, SQL languages. Knew more about Object Oriented 
 Programming and design methods of information systems. 
 --------------------------------------------------------------------------------
-technologies: .NET, Xml, programming patterns.
-*	[FileCabinet](https://github.com/StwUser/FileCabinet)
 
 ![Xamarin](/assets/img/xamarin.png)
 # Xamarin projects:
